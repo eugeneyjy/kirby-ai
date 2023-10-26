@@ -1,2 +1,8 @@
 gb_path: "roms/KirbysDreamLand.gb"
 agent_enabled: False
+headless: False
+n_env: 2
+act_freq: 1
+n_steps: 2048
+# max_steps: 204800
+n_episodes: 10
